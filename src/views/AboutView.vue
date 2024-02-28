@@ -1,7 +1,8 @@
 <template>
-  <h1>This is About page.</h1>
-  <RouterLink to="/">Home</RouterLink> |
-  <RouterLink to="/about">About</RouterLink>
+  <h1>關於我們</h1>
+  <RouterLink to="/">首頁</RouterLink> |
+  <RouterLink to="/about">關於我們</RouterLink> |
+  <RouterLink to="/products">產品列表</RouterLink>
 </template>
 
 <script>
